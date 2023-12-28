@@ -1,22 +1,22 @@
 # Contents
 
-- **Sec0** - _Java Basic Tutorial: Introduction to Java_
+- **Sec0** - _Java Basic Tutorial_: **_Introduction to Java_**
   - `Vid Link`:
     - `In Odia`:
   - `Topics`: Introduction to Java & Other Languages, Why Learn Java, Introduction to MarkDown Language, Introduction to Git & Github, Java Tools Installation, Introduction to JDK, JRE & JVM
-  - **Lec1** - _Java Basic Tutorial: Introduction to Java & Other Languages_
+  - **Lec1** - _Java Basic Tutorial_: **_Introduction to Java & Other Languages_**
     - `Vid Link`:
       - `In Odia`:
     - `Topics`: What is Java, What is a Language, What is a Programming Language, Classification of programming languages, By Paradigm {Imperative, Declarative, Functional, Object-oriented}, By Purpose {General-purpose, Domain-specific, Scripting}, By Level {High-level, Low-level}, By Type {Statically-typed, Dynamically-typed, Weakly-typed, Strongly-typed}, By Execution {Compiled, Interpreted}
-  - **Lec1.1** - _Java Basic Tutorial: Why learn Java_
+  - **Lec1.1** - _Java Basic Tutorial_: **_Why learn Java_**
     - `Vid Link`:
       - `In Odia`:
     - `Topics`: Why should you learn Java, Where is Java used, What are the Java Editions, History of Java
-  - **Lec2** - _Java Basic Tutorial: Introduction to MarkDown Language_
+  - **Lec2** - _Java Basic Tutorial_: **_Introduction to MarkDown Language_**
     - `Vid Link`:
       - `In Odia`:
     - `Topics:` Markdown Basics
-  - **Lec3** - _Java Basic Tutorial: Introduction to Git & Github_
+  - **Lec3** - _Java Basic Tutorial_: **_Introduction to Git & Github_**
     - `Vid Link:`
       - `In Odia`:
     - `Topics`: GitHub Basics
