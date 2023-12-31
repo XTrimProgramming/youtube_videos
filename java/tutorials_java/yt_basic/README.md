@@ -1,8 +1,13 @@
+# Playlist Name: _Java Basic Tutorial Series_
+
+- `Java Basic Tutorial Series in Odia`: https://www.youtube.com/playlist?list=PLc7eQxv37jTyIZDAtwZ1uMroY6HMauRh0
+- `Java Basic Tutorial Series in Hindi`:
+
 # Contents
 
 - **Sec0** - _Java Basic Tutorial_: **_Introduction to Java_**
   - `Vid Link`:
-    - `In Odia`:
+    - `In Odia`: https://youtu.be/4qxZ9QBRqU4
   - `Topics`: Introduction to Java & Other Languages, Why Learn Java, Introduction to MarkDown Language, Introduction to Git & Github, Java Tools Installation, Introduction to JDK, JRE & JVM
   - **Lec1** - _Java Basic Tutorial_: **_Introduction to Java & Other Languages_**
     - `Vid Link`:
