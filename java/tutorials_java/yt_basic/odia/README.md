@@ -15,3 +15,7 @@
     - `Vid Link`: https://youtu.be/xbq09k7aqiI
     - `Doc Link`: **Same as Sec0|Lec1**
     - `Topics`: **Same as Sec0|Lec1**
+  - **Lec2** - _Java Basic Tutorial_: **_Why learn Java_**
+    - `Vid Link`: https://youtu.be/nGr6k2dFpTQ
+    - `Doc Link`: https://drive.google.com/file/d/1Uzn2MTEz_OOyc-dk3VfABa5ZARfAsFBY/view?usp=drive_link
+    - `Topics`: Why should you learn Java, Where is Java used, What are the Java Editions {JavaSE, JavaEE, JavaME, JavaFX}, Brief History of Java
