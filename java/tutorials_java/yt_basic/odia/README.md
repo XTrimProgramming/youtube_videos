@@ -19,3 +19,7 @@
     - `Vid Link`: https://youtu.be/nGr6k2dFpTQ
     - `Doc Link`: https://drive.google.com/file/d/1Uzn2MTEz_OOyc-dk3VfABa5ZARfAsFBY/view?usp=drive_link
     - `Topics`: Why should you learn Java, Where is Java used, What are the Java Editions {JavaSE, JavaEE, JavaME, JavaFX}, Brief History of Java
+  - **Lec3** - _Java Basic Tutorial_: **_Markdown Basics_**
+    - `Vid Link`: https://youtu.be/anDDRFFDU4w
+    - `Doc Link`: https://drive.google.com/file/d/1yPbtIksyLaTzqzGUDRnSILojGPh6W9TW/view?usp=drive_link
+    - `Topics`: What is Markdown language, What is Markup language, Why Markdown is a lightweight markup language, Why you learn Markdown language, Chrome Browser Extension to view Markdown file
