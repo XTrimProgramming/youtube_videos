@@ -23,3 +23,7 @@
     - `Vid Link`: https://youtu.be/anDDRFFDU4w
     - `Doc Link`: https://drive.google.com/file/d/1yPbtIksyLaTzqzGUDRnSILojGPh6W9TW/view?usp=drive_link
     - `Topics`: What is Markdown language, What is Markup language, Why Markdown is a lightweight markup language, Why you learn Markdown language, Chrome Browser Extension to view Markdown file
+  - **Lec4** - _Java Basic Tutorial_: **_Introduction to Git_**
+    - `Vid Link`: https://youtu.be/_Eu2UZKMpkw
+    - `Doc Link`: https://drive.google.com/file/d/1IWia_CXnCTCWmSipImcqG0BOD-vs-m8Y/view?usp=drive_link
+    - `Topics`: What is Git, Why should you learn Git, Setup Git in Local Machine, Git Download & Install, Initial Configuration using Git Bash, Useful Git Commands for Developers
