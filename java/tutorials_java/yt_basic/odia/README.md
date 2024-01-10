@@ -27,3 +27,7 @@
     - `Vid Link`: https://youtu.be/_Eu2UZKMpkw
     - `Doc Link`: https://drive.google.com/file/d/1IWia_CXnCTCWmSipImcqG0BOD-vs-m8Y/view?usp=drive_link
     - `Topics`: What is Git, Why should you learn Git, Setup Git in Local Machine, Git Download & Install, Initial Configuration using Git Bash, Useful Git Commands for Developers
+  - **Lec4.1** - _Java Basic Tutorial_: **_Learn Git with VSCode_**
+    - `Vid Link`: https://youtu.be/VScz6mp4Ilg
+    - `Doc Link`: **Same as Sec0|Lec4**
+    - `Topics`: **Same as Sec0|Lec4**
