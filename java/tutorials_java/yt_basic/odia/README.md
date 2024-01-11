@@ -31,3 +31,11 @@
     - `Vid Link`: https://youtu.be/VScz6mp4Ilg
     - `Doc Link`: **Same as Sec0|Lec4**
     - `Topics`: **Same as Sec0|Lec4**
+  - **Lec4.2** - _Java Basic Tutorial_: **_Introduction to GitHub_**
+    - `Vid Link`: https://youtu.be/Y51nmqdWLtw
+    - `Doc Link`: https://drive.google.com/file/d/1iL_EXDhTTGNpdOH28xcbI3qGpgyfn7sX/view?usp=drive_link
+    - `Topics`: What is GitHub, Why should you learn GitHub
+  - **Lec4.3** - _Java Basic Tutorial_: **_Spring GitHub Repo_**
+    - `Vid Link`: https://youtu.be/6l-OC7E1fXU
+    - `Doc Link`: **Same as Sec0|Lec4.2**
+    - `Topics`: **Same as Sec0|Lec4.2**
