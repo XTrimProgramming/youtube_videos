@@ -39,3 +39,7 @@
     - `Vid Link`: https://youtu.be/6l-OC7E1fXU
     - `Doc Link`: **Same as Sec0|Lec4.2**
     - `Topics`: **Same as Sec0|Lec4.2**
+  - **Lec5** - _Java Basic Tutorial_: **_JDK & Maven Installation_**
+    - `Vid Link`: https://youtu.be/q6s-_M42jEQ
+    - `Doc Link`: https://drive.google.com/file/d/1MvXWJNB-qDNEthLdW0DGfyYaOHWXCmR-/view?usp=drive_link
+    - `Topics`: JDK Setup, JDK Setup in Windows, Maven Setup, Maven Setup in Windows
