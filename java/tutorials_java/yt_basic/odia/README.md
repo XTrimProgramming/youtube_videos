@@ -34,3 +34,6 @@
   - **Lec5** - _Java Basic Tutorial_: **_JDK & Maven Installation_**
     - `Vid Link`: https://youtu.be/q6s-_M42jEQ
     - `Topics`: JDK Setup, JDK Setup in Windows, Maven Setup, Maven Setup in Windows
+  - **Lec5.1** - _Java Basic Tutorial_: **_IntelliJ IDEA & VSCode Installation_**
+    - `Vid Link`: https://youtu.be/5mQX0J5XuPk
+    - `Topics`: IntelliJ IDEA Setup, VSCode Setup
