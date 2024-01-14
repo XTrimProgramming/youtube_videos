@@ -37,3 +37,6 @@
   - **Lec5.1** - **_IntelliJ IDEA & VSCode Installation_**
     - `Vid Link`: https://youtu.be/5mQX0J5XuPk
     - `Topics`: IntelliJ IDEA Setup in Windows, VSCode Setup in Windows
+  - **Lec6** - **_Introduction to JDK, JRE & JVM_**
+    - `Vid Link`: https://youtu.be/jiiJIEEBxZM
+    - `Topics`: What is DK (Development Kit), What is SDK (Software Development Kit), What is CDK (Cloud Development Kit), What is JDK (Java Development Kit), What is RE (Runtime Environment), What is JRE (Java Runtime Environment), What is VM (Virtual Machine), What is SVM (System Virtual Machine), What is PVM (Process Virtual Machine), What is JVM (Java Virtual Machine)
