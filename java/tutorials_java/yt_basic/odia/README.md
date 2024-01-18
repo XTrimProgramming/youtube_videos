@@ -44,3 +44,7 @@
   - **Lec1** - **_Run First Java Program_**
     - `Vid Link`: https://youtu.be/1PU9LlNCkbY
     - `Topics`: Run First Java Program using java & javac command, Run commands using git bash
+  - **Lec1.1** - **_Run Java Programs in the same folder_**
+    - `Vid Link`: https://youtu.be/LaDIKplg1KU
+    - `Topics`: Run One Main Java File & One Dependent Java File in same folder/package,
+Run commands using git bash
