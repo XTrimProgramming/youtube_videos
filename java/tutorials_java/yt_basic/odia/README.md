@@ -58,3 +58,6 @@ Run all commands using git bash
   - **Lec1.4** - **_Create First Maven Project using mvn command & Run it_**
     - `Vid Link`: https://youtu.be/oaSb8lo1khQ
     - `Topics`: Generate a maven project, Compile using mvn & Run using java
+  - **Lec1.5** - **_Create a JAR using mvn command & Run it_**
+    - `Vid Link`: https://youtu.be/dSQE-O-iF4Y
+    - `Topics`: Run Java Programs using proper packaging structure, Compile using mvn, Package using mvn, Run using java
