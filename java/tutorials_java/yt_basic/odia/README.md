@@ -64,3 +64,6 @@ Run all commands using git bash
   - **Lec1.6** - **_Create First Maven Project using VSCode & Run it_**
     - `Vid Link`: https://youtu.be/5u3DCFLgj_w
     - `Topics`: Create Maven Projects in minutes with VSCode! (Step-by-Step Guide)
+  - **Lec1.7** - **_Create First Maven Project using IntelliJ IDEA & Run it_**
+    - `Vid Link`: https://youtu.be/w5hf0LbVEV4
+    - `Topics`: Create Maven Projects in minutes with IntelliJ IDEA! (Step-by-Step Guide)
