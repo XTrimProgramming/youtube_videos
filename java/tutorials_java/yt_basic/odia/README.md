@@ -67,3 +67,6 @@ Run all commands using git bash
   - **Lec1.7** - **_Create First Maven Project using IntelliJ IDEA & Run it_**
     - `Vid Link`: https://youtu.be/w5hf0LbVEV4
     - `Topics`: Create, Compile, Package & Run Maven Project using IntelliJ IDEA
+  - **Lec2** - **_Main Method in Java_**
+    - `Vid Link`: https://youtu.be/OiNyjSSro4s
+    - `Topics`: Why we need a Main method in Java, Main method breakdown
