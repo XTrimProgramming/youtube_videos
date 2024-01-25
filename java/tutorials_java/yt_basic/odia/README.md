@@ -70,3 +70,6 @@ Run all commands using git bash
   - **Lec2** - **_Main Method in Java_**
     - `Vid Link`: https://youtu.be/OiNyjSSro4s
     - `Topics`: Why we need a Main method in Java, Main method breakdown
+  - **Lec2.1** - **_IntelliJ IDEA - Understand Program & JVM Arguments_**
+    - `Vid Link`: https://youtu.be/OiNyjSSro4s
+    - `Topics`: What is Program & JVM Arguments, Why we need Program & JVM Arguments, How to pass Program & JVM Arguments
