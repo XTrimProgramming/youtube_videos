@@ -76,3 +76,6 @@ Run all commands using git bash
   - **Lec2.2** - **_IntelliJ IDEA - Play with IDE Settings_**
     - `Vid Link`: https://youtu.be/pHydMgzBRBg
     - `Topics`: Settings { change theme, configure plugin, configure maven, setting sync }, Project Structure { SDK setting }, Application Run Configuration { pass program & jvm arguments }
+  - **Lec2.3** - **_IntelliJ IDEA - Debugging Java Application_**
+    - `Vid Link`: https://youtu.be/fFizhqoVsK8
+    - `Topics`: What is Bug, What is Debugging, Why we need Debugging, What is a Debugger, Debugger Basic Features { Debug session, Breakpoint, Resume, Step Over, Step Into, Step Out }
