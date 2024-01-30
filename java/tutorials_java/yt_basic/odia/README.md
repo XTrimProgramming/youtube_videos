@@ -82,3 +82,6 @@ Run all commands using git bash
   - **Lec3** - **_Data Types in Java_**
     - `Vid Link`: https://youtu.be/Blrs7KBN39Y
     - `Topics`: What is Data, What is Data Type, Types of Data Type, Primitive data types, Reference data types, Variable, Variable Storage
+  - **Lec3.1** - **_Integer Data Types_**
+    - `Vid Link`: https://youtu.be/KI_YJI8TwZ8
+    - `Topics`: What is an Integer, Integer Primitive Data Types { byte, short, int, long }, 2's complement signed number representation Integer Non-Primitive Data Types { BigInteger }
