@@ -79,3 +79,6 @@ Run all commands using git bash
   - **Lec2.3** - **_IntelliJ IDEA - Debugging Java Application_**
     - `Vid Link`: https://youtu.be/fFizhqoVsK8
     - `Topics`: What is Bug, What is Debugging, Why we need Debugging, What is a Debugger, Debugger Basic Features { Debug session, Breakpoint, Resume, Step Over, Step Into, Step Out }
+  - **Lec3** - **_Data Types in Java_**
+    - `Vid Link`: https://youtu.be/Blrs7KBN39Y
+    - `Topics`: What is Data, What is Data Type, Types of Data Type, Primitive data types, Reference data types, Variable, Variable Storage
