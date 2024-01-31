@@ -85,3 +85,6 @@ Run all commands using git bash
   - **Lec3.1** - **_Integer Data Types_**
     - `Vid Link`: https://youtu.be/KI_YJI8TwZ8
     - `Topics`: What is an Integer, Integer Primitive Data Types { byte, short, int, long }, 2's complement signed number representation Integer Non-Primitive Data Types { BigInteger }
+  - **Lec3.2** - **_Floating Point Data Types_**
+    - `Vid Link`: https://youtu.be/rrbX6muS9wI
+    - `Topics`: What is Floating Point Number, Floating Point Primitive Data Types { float, double }, Floating Point Non-Primitive Data Types { BigDecimal }
