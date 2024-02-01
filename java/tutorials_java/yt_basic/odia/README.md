@@ -88,3 +88,6 @@ Run all commands using git bash
   - **Lec3.2** - **_Floating Point Data Types_**
     - `Vid Link`: https://youtu.be/rrbX6muS9wI
     - `Topics`: What is Floating Point Number, Floating Point Primitive Data Types { float, double }, Floating Point Non-Primitive Data Types { BigDecimal }
+  - **Lec3.3** - **_Characters & Boolean Data Types_**
+    - `Vid Link`: https://youtu.be/ZQaqnrm0Q94
+    - `Topics`: Characters Primitive Data Types { char }, Characters Non-Primitive Data Types { char [], String }, Boolean Primitive Data Types { boolean }
