@@ -9,13 +9,13 @@
   - `Topics`: Introduction to Java & Other Languages, Why Learn Java, Introduction to MarkDown Language, Introduction to Git & Github, Java Tools Installation, Introduction to JDK, JRE & JVM
   - **Lec1** - **_Introduction to Java & Other Languages_**
     - `Vid Link`: https://youtu.be/cm0VXMatSyM
-    - `Topics`: What is Java, What is a Language, What is a Programming Language, Classification of programming languages, By Paradigm {Imperative, Declarative, Functional, Object-oriented}, By Purpose {General-purpose, Domain-specific, Scripting}, By Level {High-level, Low-level}, By Type {Statically-typed, Dynamically-typed, Weakly-typed, Strongly-typed}, By Execution {Compiled, Interpreted}
+    - `Topics`: What is Java, What is a Language, What is a Programming Language, Classification of programming languages, By Paradigm { Imperative, Declarative, Functional, Object-oriented }, By Purpose { General-purpose, Domain-specific, Scripting }, By Level { High-level, Low-level }, By Type { Statically-typed, Dynamically-typed, Weakly-typed, Strongly-typed }, By Execution { Compiled, Interpreted }
   - **Lec1.1** - **_Introduction to Java & Other Languages_**
     - `Vid Link`: https://youtu.be/xbq09k7aqiI
     - `Topics`: **Same as Sec0 | Lec1**
   - **Lec2** - **_Why learn Java_**
     - `Vid Link`: https://youtu.be/nGr6k2dFpTQ
-    - `Topics`: Why should you learn Java, Where is Java used, What are the Java Editions {JavaSE, JavaEE, JavaME, JavaFX}, Brief History of Java
+    - `Topics`: Why should you learn Java, Where is Java used, What are the Java Editions { JavaSE, JavaEE, JavaME, JavaFX }, Brief History of Java
   - **Lec3** - **_Markdown Basics_**
     - `Vid Link`: https://youtu.be/anDDRFFDU4w
     - `Topics`: What is Markdown language, What is Markup language, Why Markdown is a lightweight markup language, Why you learn Markdown language, Chrome Browser Extension to view Markdown file
