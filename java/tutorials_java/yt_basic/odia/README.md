@@ -91,3 +91,6 @@ Run all commands using git bash
   - **Lec3.3** - **_Characters & Boolean Data Types_**
     - `Vid Link`: https://youtu.be/ZQaqnrm0Q94
     - `Topics`: Characters Primitive Data Types { char }, Characters Non-Primitive Data Types { char [], String }, Boolean Primitive Data Types { boolean }
+  - **Lec3.4** - **_Non-Primitive Data Types (Class, Array, Enum)_**
+    - `Vid Link`: https://youtu.be/gscEFk53Ido
+    - `Topics`: Class { field, methods, class keyword  }, Array { declaration, initialization }, Enum { enum keyword }
