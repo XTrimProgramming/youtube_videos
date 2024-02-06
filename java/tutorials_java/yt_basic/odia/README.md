@@ -94,3 +94,6 @@ Run all commands using git bash
   - **Lec3.4** - **_Non-Primitive Data Types (Class, Array, Enum)_**
     - `Vid Link`: https://youtu.be/gscEFk53Ido
     - `Topics`: Class { field, methods, class keyword  }, Array { declaration, initialization }, Enum { enum keyword }
+  - **Lec3.5** - **_Type Casting_**
+    - `Vid Link`: https://youtu.be/bBF7VDk2D0M
+    - `Topics`: What is Type Casting, Primitive Type Casting { Widening Conversion, Narrowing Conversion }, Object Type Casting { Upcasting, Downcasting }
