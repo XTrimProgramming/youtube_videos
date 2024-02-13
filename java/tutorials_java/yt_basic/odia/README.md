@@ -99,4 +99,7 @@ Run all commands using git bash
     - `Topics`: What is Type Casting, Primitive Type Casting { Widening Conversion, Narrowing Conversion }
   - **Lec3.6** - **_Object Type Casting_**
     - `Vid Link`: https://youtu.be/W5Og3raDtFQ
-    - `Topics`: Object Type Casting { Upcasting, Downcasting }, What is ClassCastException, How to handle ClassCastException in java, instanceof Operator 
+    - `Topics`: Object Type Casting { Upcasting, Downcasting }, What is ClassCastException, How to handle ClassCastException in java, instanceof Operator
+  - **Lec4** - **_Operators (Postfix, Unary, Additive, Multiplicative)_**
+    - `Vid Link`: https://youtu.be/1Qhstkgc-wc
+    - `Topics`: What is Operators, Postfix Operators { expr++, expr-- }, Unary Operators { ++expr, --expr, +expr, -expr, ~, ! }, Additive Operators { +, - }, Multiplicative Operators { \*, /, % }
