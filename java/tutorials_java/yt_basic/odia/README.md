@@ -103,3 +103,6 @@ Run all commands using git bash
   - **Lec4** - **_Operators (Postfix, Unary, Additive, Multiplicative)_**
     - `Vid Link`: https://youtu.be/1Qhstkgc-wc
     - `Topics`: What is Operators, Postfix Operators { expr++, expr-- }, Unary Operators { ++expr, --expr, +expr, -expr, ~, ! }, Additive Operators { +, - }, Multiplicative Operators { \*, /, % }
+  - **Lec4.1** - **_Operators (Relational, Equality, Logical, Ternary)_**
+    - `Vid Link`: https://youtu.be/yu8vhzOA8Mc
+    - `Topics`: Relational Operators { <, >, <=, >=, instanceof }, Equality Operators { ==, != }, Logical Operators { &&, || }, Ternary Operators { ? : }
