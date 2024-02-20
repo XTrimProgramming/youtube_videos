@@ -106,3 +106,6 @@ Run all commands using git bash
   - **Lec4.1** - **_Operators (Relational, Equality, Logical, Ternary)_**
     - `Vid Link`: https://youtu.be/yu8vhzOA8Mc
     - `Topics`: Relational Operators { <, >, <=, >=, instanceof }, Equality Operators { ==, != }, Logical Operators { &&, || }, Ternary Operators { ? : }
+  - **Lec4.2** - **_Operators (Shift & Bitwise)_**
+    - `Vid Link`: https://youtu.be/nmJfTszcd6A
+    - `Topics`: Shift Operators { <<, >>, >>> }, Bitwise Operators { &, |, ^ }
