@@ -109,3 +109,6 @@ Run all commands using git bash
   - **Lec4.2** - **_Operators (Shift & Bitwise)_**
     - `Vid Link`: https://youtu.be/nmJfTszcd6A
     - `Topics`: Shift Operators { <<, >>, >>> }, Bitwise Operators { &, |, ^ }
+  - **Lec4.3** - **_Operators (Assignment)_**
+    - `Vid Link`: https://youtu.be/0ct71FWy7Rg
+    - `Topics`: Simple Assignment Operators { = }, Compound Assignment Operators { += -= \*= /= %= }, Compound Bitwise Operators { &= |= ^= <<= >>= >>>= }
