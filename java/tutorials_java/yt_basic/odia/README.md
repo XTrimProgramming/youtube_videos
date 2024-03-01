@@ -112,3 +112,6 @@ Run all commands using git bash
   - **Lec4.3** - **_Operators (Assignment)_**
     - `Vid Link`: https://youtu.be/0ct71FWy7Rg
     - `Topics`: Simple Assignment Operators { = }, Compound Assignment Operators { += -= \*= /= %= }, Compound Bitwise Operators { &= |= ^= <<= >>= >>>= }
+  - **Lec4.4** - **_Operators Precedence_**
+    - `Vid Link`: https://youtu.be/X1VV3iQEp68
+    - `Topics`: operators precedence, expression, associativity of operators, precedence table
