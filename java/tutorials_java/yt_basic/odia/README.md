@@ -118,3 +118,6 @@ Run all commands using git bash
   - **Lec5** - **_Variables & their Scopes_**
     - `Vid Link`: https://youtu.be/xonKHa3xbX8
     - `Topics`: Variables in Java, How to Declare Variables, How to Initialize Variables, Types of Variables { Static, Instance, Local }
+  - **Lec5.1** - **_Code Execution Order_**
+    - `Vid Link`: https://youtu.be/3BmOlHfrlnY
+    - `Topics`: Order of Code Execution in Java, Static Variables/Blocks Execution, Instance Variables/Blocks Execution
