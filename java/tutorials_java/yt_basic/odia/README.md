@@ -121,3 +121,6 @@ Run all commands using git bash
   - **Lec5.1** - **_Code Execution Order_**
     - `Vid Link`: https://youtu.be/3BmOlHfrlnY
     - `Topics`: Order of Code Execution in Java, Static Variables/Blocks Execution, Instance Variables/Blocks Execution
+  - **Lec6** - **_Wrapper Classes_**
+    - `Vid Link`: https://youtu.be/2UL4F6Wbkbo
+    - `Topics`: Wrapper Classes in Java, Need of Wrapper Classes, Wrapper Classes for Primitive Data Types, Autoboxing and Unboxing, Custom Wrapper Classes
