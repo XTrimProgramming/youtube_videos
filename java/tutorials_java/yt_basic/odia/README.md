@@ -124,3 +124,7 @@ Run all commands using git bash
   - **Lec6** - **_Wrapper Classes_**
     - `Vid Link`: https://youtu.be/2UL4F6Wbkbo
     - `Topics`: Wrapper Classes in Java, Need of Wrapper Classes, Wrapper Classes for Primitive Data Types, Autoboxing and Unboxing, Custom Wrapper Classes
+- **Sec2** - **_Input/Output in Java_**
+  - **Lec1** - **_Read input(s) from Console_**
+    - `Vid Link`: https://youtu.be/7iRuBygnSZI
+    - `Topics`: What is Console, How to take input from Console, BufferedReader Class, Scanner Class, Console Class, When to use BufferedReader, Scanner and Console
