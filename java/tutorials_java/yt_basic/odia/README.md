@@ -128,3 +128,6 @@ Run all commands using git bash
   - **Lec1** - **_Read input(s) from Console_**
     - `Vid Link`: https://youtu.be/7iRuBygnSZI
     - `Topics`: What is Console, How to take input from Console, BufferedReader Class, Scanner Class, Console Class, When to use BufferedReader, Scanner and Console
+  - **Lec2** - **_Write Output(s) to Console_**
+    - `Vid Link`: https://youtu.be/00_MsIfM3WU
+    - `Topics`: System.out.print()/println(), Format Specifiers, Formatted output, Escape Sequences, Text blocks
