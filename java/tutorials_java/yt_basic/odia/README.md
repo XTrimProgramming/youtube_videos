@@ -131,3 +131,6 @@ Run all commands using git bash
   - **Lec2** - **_Write Output(s) to Console_**
     - `Vid Link`: https://youtu.be/00_MsIfM3WU
     - `Topics`: System.out.print()/println(), Format Specifiers, Formatted output, Escape Sequences, Text blocks
+  - **Lec3** - **_Comments_**
+    - `Vid Link`: https://youtu.be/5189RI_pzDc
+    - `Topics`: What is Comment, Types of Comments in Java, Single Line Comment, Multi Line Comment, Documentation Comment, javadoc Command
