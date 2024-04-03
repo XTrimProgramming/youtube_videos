@@ -137,3 +137,6 @@ Run all commands using git bash
   - **Lec4** - **_Different Ways Of Reading a Text File_**
     - `Vid Link`: https://youtu.be/gA_hbhH7MVY
     - `Topics`: Using BufferedReader with FileReader Class, Using Scanner with File Class, Using Stream with Files Class
+  - **Lec5** - **_Different Ways Of Writing Data to a Text File_**
+    - `Vid Link`: https://youtu.be/3NC-8InmEzk
+    - `Topics`: Using BufferedWriter Class, Using FileWriter Class, Using PrintWriter Class, Using Files Class
