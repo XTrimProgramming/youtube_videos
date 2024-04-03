@@ -134,3 +134,6 @@ Run all commands using git bash
   - **Lec3** - **_Comments_**
     - `Vid Link`: https://youtu.be/5189RI_pzDc
     - `Topics`: What is Comment, Types of Comments in Java, Single Line Comment, Multi Line Comment, Documentation Comment, javadoc Command
+  - **Lec4** - **_Different Ways Of Reading a Text File_**
+    - `Vid Link`: https://youtu.be/gA_hbhH7MVY
+    - `Topics`: Using BufferedReader with FileReader Class, Using Scanner with File Class, Using Stream with Files Class
