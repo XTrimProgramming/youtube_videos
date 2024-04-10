@@ -140,3 +140,6 @@ Run all commands using git bash
   - **Lec5** - **_Different Ways Of Writing Data to a Text File_**
     - `Vid Link`: https://youtu.be/3NC-8InmEzk
     - `Topics`: Using BufferedWriter Class, Using FileWriter Class, Using PrintWriter Class, Using Files Class
+  - **Lec6** - **_Mini Project - Log Generator and Reader_**
+    - `Vid Link`: https://youtu.be/O6kEO5FBdpU
+    - `Topics`: What is Log File, LogGenerator Class, LogReader Class
