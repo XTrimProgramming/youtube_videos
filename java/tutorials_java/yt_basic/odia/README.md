@@ -143,3 +143,7 @@ Run all commands using git bash
   - **Lec6** - **_Mini Project - Log Generator and Reader_**
     - `Vid Link`: https://youtu.be/O6kEO5FBdpU
     - `Topics`: What is Log File, LogGenerator Class, LogReader Class
+- **Sec3** - **_Control Flow Statements in Java_**
+  - **Lec1** - **_Decision-making Statements (if, if-else, switch-case)_**
+    - `Vid Link`: https://youtu.be/KRj7JwuoiqU
+    - `Topics`: What is Control Flow Statement, Control Statements { Decision-making statements, Looping statements, Branching statements }, if Statement, if-else Statement, nested-if Statement, if-else-if ladder Statement, switch-case Satement, Supports multiple values per case, Switch as an expression, Switch with arrows 
