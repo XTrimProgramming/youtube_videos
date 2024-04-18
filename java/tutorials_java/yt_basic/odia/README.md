@@ -147,3 +147,6 @@ Run all commands using git bash
   - **Lec1** - **_Decision-making Statements (if, if-else, switch-case)_**
     - `Vid Link`: https://youtu.be/KRj7JwuoiqU
     - `Topics`: What is Control Flow Statement, Control Statements { Decision-making statements, Looping statements, Branching statements }, if Statement, if-else Statement, nested-if Statement, if-else-if ladder Statement, switch-case Satement, Supports multiple values per case, Switch as an expression, Switch with arrows 
+  - **Lec2** - **_Looping Statements (while, do while, for)_**
+    - `Vid Link`: https://youtu.be/XZlO-unsqTw
+    - `Topics`: Looping Statement, while loop, do-while loop, for loop, for-each loop (Enhanced for loop), Limitations of for-each loop
