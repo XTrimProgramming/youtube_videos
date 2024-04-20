@@ -150,3 +150,6 @@ Run all commands using git bash
   - **Lec2** - **_Looping Statements (while, do while, for)_**
     - `Vid Link`: https://youtu.be/XZlO-unsqTw
     - `Topics`: Looping Statement, while loop, do-while loop, for loop, for-each loop (Enhanced for loop), Limitations of for-each loop
+  - **Lec3** - **_Branching Statements (break, continue, return)_**
+    - `Vid Link`: https://youtu.be/1ueEaKbj9hw
+    - `Topics`: Branching Statements, break Statement, continue Statement, return Statement
