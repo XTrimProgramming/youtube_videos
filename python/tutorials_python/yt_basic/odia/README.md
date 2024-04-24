@@ -11,3 +11,6 @@
   - **Lec2** - **_Install, Setup & Explore Python_**
     - `Vid Link`: https://youtu.be/qcHkWtKi5wk
     - `Topics`: Download and Install Python Latest Version in Windows, Python Installation Folder Structure on Windows, IDLE (Integrated Development and Learning Environment), Python shell or Python REPL (Read-Eval-Print Loop)
+  - **Lec3** - **_PyCharm Installation & Run Python Project_**
+    - `Vid Link`: https://youtu.be/D_BfySJpTvA
+    - `Topics`: What is PyCharm, Download PyCharm on Windows, Install PyCharm and set up all configuration, Create & Run Python Project on PyCharm, Debugging Python Program on PyCharm
