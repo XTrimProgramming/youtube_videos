@@ -153,3 +153,6 @@ Run all commands using git bash
   - **Lec3** - **_Branching Statements (break, continue, return)_**
     - `Vid Link`: https://youtu.be/1ueEaKbj9hw
     - `Topics`: Branching Statements, break Statement, continue Statement, return Statement
+  - **Lec4** - **_Recursion & Factorial_**
+    - `Vid Link`: https://youtu.be/uho9ILpVpNE
+    - `Topics`: What is Recursion, When to Use Recursion, When to Avoid Recursion, What is Factorial
