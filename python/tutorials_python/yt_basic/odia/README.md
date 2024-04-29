@@ -14,3 +14,6 @@
   - **Lec3** - **_PyCharm Installation & Run Python Project_**
     - `Vid Link`: https://youtu.be/D_BfySJpTvA
     - `Topics`: What is PyCharm, Download PyCharm on Windows, Install PyCharm and set up all configuration, Create & Run Python Project on PyCharm, Debugging Python Program on PyCharm
+  - **Lec4** - **_Python Interpreter_**
+    - `Vid Link`: https://youtu.be/ENRHCwlvdfo
+    - `Topics`: What is an Interpreter, Understanding the Python Interpreter, Source Code Analysis { Lexer, Parser }, Python Compiler, Byte Code Generation, Python Virtual Machine (PVM)
