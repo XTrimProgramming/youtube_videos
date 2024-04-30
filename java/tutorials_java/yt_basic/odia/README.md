@@ -159,3 +159,6 @@ Run all commands using git bash
   - **Lec4.1** - **_Recursion Limitation & Fibonacci Sequence_**
     - `Vid Link`: https://youtu.be/zCxPkHCI2-Y
     - `Topics`: What is Fibonacci Sequence, What is Time Complexity, Big O notation, Calculating Time Complexity of Fibonacci Methods, Recursive Method VS Iterative Method Time Complexity, Limitation of Recursion
+  - **Lec4.2** - **_Scan any directory using Java & Shell Script_**
+    - `Vid Link`: https://youtu.be/a_xadbIqWM0
+    - `Topics`: File Traversal using Java, File Traversal using Shell Script, Why we use Shell Script (for Utility Program)
