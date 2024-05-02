@@ -162,3 +162,6 @@ Run all commands using git bash
   - **Lec4.2** - **_Scan any directory using Java & Shell Script_**
     - `Vid Link`: https://youtu.be/a_xadbIqWM0
     - `Topics`: File Traversal using Java, File Traversal using Shell Script, Why we use Shell Script (for Utility Program)
+  - **Lec5** - **_Simple Banking App_**
+    - `Vid Link`: https://youtu.be/XBSlIWK33B8
+    - `Topics`: Simple Banking App with features { Check Balance, Deposit Funds, Withdraw Funds }, Menu-driven Functionality for Users to Interact with their Account
