@@ -165,3 +165,7 @@ Run all commands using git bash
   - **Lec5** - **_Simple Banking App_**
     - `Vid Link`: https://youtu.be/XBSlIWK33B8
     - `Topics`: Simple Banking App with features { Check Balance, Deposit Funds, Withdraw Funds }, Menu-driven Functionality for Users to Interact with their Account
+- **Sec4** - **_Strings and Arrays in java_**
+  - **Lec1** - **_Strings_**
+    - `Vid Link`: https://youtu.be/Z0qSaAcVraA
+    - `Topics`: What are Strings, Ways of Creating a String { String literal, Using new Keyword }, String Class, String interning, String Constant Pool
