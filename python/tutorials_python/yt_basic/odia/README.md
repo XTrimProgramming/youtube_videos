@@ -17,3 +17,7 @@
   - **Lec4** - **_Python Interpreter_**
     - `Vid Link`: https://youtu.be/ENRHCwlvdfo
     - `Topics`: What is an Interpreter, Understanding the Python Interpreter, Source Code Analysis { Lexer, Parser }, Python Compiler, Byte Code Generation, Python Virtual Machine (PVM)
+- **Sec1** - **_Create & Run Python Project_**
+  - **Lec1** - **_Create First Python Project & Run it using PyCharm_**
+    - `Vid Link`: https://youtu.be/DmBlDd7oCxk
+    - `Topics`: What is Python, Why should you learn Python, Where is Python used, History of Python, Python Popular Frameworks and Libraries
