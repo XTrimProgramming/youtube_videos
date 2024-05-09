@@ -169,3 +169,6 @@ Run all commands using git bash
   - **Lec1** - **_Strings_**
     - `Vid Link`: https://youtu.be/Z0qSaAcVraA
     - `Topics`: What are Strings, Ways of Creating a String { String literal, Using new Keyword }, String Class, String interning, String Constant Pool
+  - **Lec1.1** - **_StringBuffer, StringBuilder, StringTokenizer & StringJoiner_**
+    - `Vid Link`: https://youtu.be/o0qQoUgYTTk
+    - `Topics`: Why StringBuffer and StringBuilder Class introduced, StringBuffer Class, StringBuilder Class, StringTokenizer Class, StringJoiner Class
