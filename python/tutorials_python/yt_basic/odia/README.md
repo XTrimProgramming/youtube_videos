@@ -21,3 +21,6 @@
   - **Lec1** - **_Create First Python Project & Run it using PyCharm_**
     - `Vid Link`: https://youtu.be/DmBlDd7oCxk
     - `Topics`: What is Python, Why should you learn Python, Where is Python used, History of Python, Python Popular Frameworks and Libraries
+  - **Lec1.1** - **_Import First Python Project & Run it using PyCharm_**
+    - `Vid Link`: https://youtu.be/mf_9msKkDkI
+    - `Topics`: How to Import Python Project in PyCharm, PyCharm Configuration Settings, Configure a Local Python Interpreter in PyCharm, Configure PyCharm System Interpreter, Virtual Environment Python PyCharm
