@@ -175,3 +175,6 @@ Run all commands using git bash
   - **Lec2** - **_Arrays_**
     - `Vid Link`: https://youtu.be/V1_AYQxFpw8
     - `Topics`: What is an Array, Array Declaration, Array Initialization (or Creation) { Array Literal }, Variable arguments (varargs), Accessing Array Elements, Multidimensional Arrays { Jagged Arrays }
+  - **Lec2.1** - **_Arrays Class_**
+    - `Vid Link`: https://youtu.be/6z34euCjXC0
+    - `Topics`: What is an Arrays Class, Arrays Class Important Methods { toString, deepToString, sort, fill, copyOf, binarySearch, equals, deepEquals }, MinMaxReverse Program
