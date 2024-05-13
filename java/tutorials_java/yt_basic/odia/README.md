@@ -171,4 +171,7 @@ Run all commands using git bash
     - `Topics`: What are Strings, Ways of Creating a String { String literal, Using new Keyword }, String Class, String interning, String Constant Pool
   - **Lec1.1** - **_StringBuffer, StringBuilder, StringTokenizer & StringJoiner_**
     - `Vid Link`: https://youtu.be/o0qQoUgYTTk
-    - `Topics`: Why StringBuffer and StringBuilder Class introduced, StringBuffer Class, StringBuilder Class, StringTokenizer Class, StringJoiner Class
+    - `Topics`: Why StringBuffer and StringBuilder Class introduced, StringBuffer Class, StringBuilder Class, StringTokenizer Class, StringJoiner Class, CSV Parser Program, CSV Builder Program
+  - **Lec2** - **_Arrays_**
+    - `Vid Link`: https://youtu.be/V1_AYQxFpw8
+    - `Topics`: What is an Array, Array Declaration, Array Initialization (or Creation) { Array Literal }, Variable arguments (varargs), Accessing Array Elements, Multidimensional Arrays { Jagged Arrays }
