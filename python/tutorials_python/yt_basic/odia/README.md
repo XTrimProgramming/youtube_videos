@@ -20,7 +20,7 @@
 - **Sec1** - **_Create & Run Python Project_**
   - **Lec1** - **_Create First Python Project & Run it using PyCharm_**
     - `Vid Link`: https://youtu.be/DmBlDd7oCxk
-    - `Topics`: What is Python, Why should you learn Python, Where is Python used, History of Python, Python Popular Frameworks and Libraries
+    - `Topics`: What is package, What is module, Main module, How to create project, How to create package, Run Python code, How to access external module
   - **Lec1.1** - **_Import First Python Project & Run it using PyCharm_**
     - `Vid Link`: https://youtu.be/mf_9msKkDkI
-    - `Topics`: How to Import Python Project in PyCharm, PyCharm Configuration Settings, Configure a Local Python Interpreter in PyCharm, Configure PyCharm System Interpreter, Virtual Environment Python PyCharm
+    - `Topics`: How to import python project, PyCharm configuration settings, Configure Python Local Interpreter and System Interpreter 
