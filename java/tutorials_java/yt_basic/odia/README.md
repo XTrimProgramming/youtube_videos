@@ -178,3 +178,6 @@ Run all commands using git bash
   - **Lec2.1** - **_Arrays Class_**
     - `Vid Link`: https://youtu.be/6z34euCjXC0
     - `Topics`: What is an Arrays Class, Arrays Class Important Methods { toString, deepToString, sort, fill, copyOf, binarySearch, equals, deepEquals }, MinMaxReverse Program
+  - **Lec3** - **_Server Log Generator & Log Processor_**
+    - `Vid Link`: https://youtu.be/V2z5o8Xjla0
+    - `Topics`: ServerLogGenerator Class, LogProcessor Class
