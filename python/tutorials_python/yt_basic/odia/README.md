@@ -23,4 +23,7 @@
     - `Topics`: What is package, What is module, Main module, How to create project, How to create package, Run Python code, How to access external module
   - **Lec1.1** - **_Import First Python Project & Run it using PyCharm_**
     - `Vid Link`: https://youtu.be/mf_9msKkDkI
-    - `Topics`: How to import python project, PyCharm configuration settings, Configure Python Local Interpreter and System Interpreter 
+    - `Topics`: How to import python project, PyCharm configuration settings, Configure Python Local Interpreter and System Interpreter
+  - **Lec2** - **_Dependency Management using Pip & Poetry_**
+    - `Vid Link`: https://youtu.be/yM9DCYk3Td4
+    - `Topics`: What is dependency, What is dependency management, Pip, Create and run a project with dependencies using Pip, Poetry, Create and run a project with dependencies using Poetry 
