@@ -181,3 +181,7 @@ Run all commands using git bash
   - **Lec3** - **_Server Log Generator & Log Processor_**
     - `Vid Link`: https://youtu.be/V2z5o8Xjla0
     - `Topics`: ServerLogGenerator Class, LogProcessor Class
+- **Sec5** - **_OOPs Concepts in Java_**
+  - **Lec1** - **_OOPs Concepts_**
+    - `Vid Link`: https://youtu.be/pGndfr-eQQM
+    - `Topics`: What is OOP, What is OOPs, Key concepts of OOPs { Classes and Objects, Encapsulation, Abstraction, Inheritance, Polymorphism }
