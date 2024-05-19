@@ -1,6 +1,6 @@
-# Playlist Name: _Java Mini Project Series in Odia_
+# Playlist Name: _Java Micro Project Series in Odia_
 
-- `Java Mini Project Series in Odia`: https://www.youtube.com/playlist?list=PLc7eQxv37jTxKg12CrAjNpqDMdwzUJrpA
+- `Java Micro Project Series in Odia`: https://www.youtube.com/playlist?list=PLc7eQxv37jTxKg12CrAjNpqDMdwzUJrpA
 
 # Contents
 
