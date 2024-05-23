@@ -185,3 +185,6 @@ Run all commands using git bash
   - **Lec1** - **_OOPs Concepts_**
     - `Vid Link`: https://youtu.be/pGndfr-eQQM
     - `Topics`: What is OOP, What is OOPs, Key concepts of OOPs { Classes and Objects, Encapsulation, Abstraction, Inheritance, Polymorphism }
+  - **Lec1.1** - **_Types of Classes_**
+    - `Vid Link`: https://youtu.be/yJpbom4bcHU
+    - `Topics`: What is Class, Types of Classes, Concrete/Regular Class, POJO Class, Record Class, Nested Class, Non-Static Nested Class/Inner Class, Static Nested Class/Inner Class, Local Inner Class, Anonymous Class, Lambda Expression, Enum Class
