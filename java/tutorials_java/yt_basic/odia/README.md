@@ -188,3 +188,6 @@ Run all commands using git bash
   - **Lec1.1** - **_Types of Classes_**
     - `Vid Link`: https://youtu.be/yJpbom4bcHU
     - `Topics`: What is Class, Types of Classes, Concrete/Regular Class, POJO Class, Record Class, Nested Class, Non-Static Nested Class/Inner Class, Static Nested Class/Inner Class, Local Inner Class, Anonymous Class, Lambda Expression, Enum Class
+  - **Lec1.2** - **_Object Creation Types_**
+    - `Vid Link`: https://youtu.be/895sueUoRD4
+    - `Topics`: What is Object, Ways to Create an Object of a Class, Using "new" Keyword, Using Cloning, Using Reflection, Using Deserialization, Using Factory Methods, Using Builder Pattern
