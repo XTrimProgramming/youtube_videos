@@ -192,5 +192,5 @@ Run all commands using git bash
     - `Vid Link`: https://youtu.be/895sueUoRD4
     - `Topics`: What is Object, Ways to Create an Object of a Class, Using "new" Keyword, Using Cloning, Using Reflection, Using Deserialization, Using Factory Methods, Using Builder Pattern
   - **Lec2** - **_Methods & Constructors_**
-    - `Vid Link`: https://youtu.be/895sueUoRD4
+    - `Vid Link`: https://youtu.be/90OCedJ2gsY
     - `Topics`: What is Method, Types of Methods basesd on Return Types & Arguments { Method with No Argument and No Return Type (Void Type), Method with Arguments and No Return Type (Void Type), Method with No Argument and a Return Type, Method with Arguments and a Return Type, Method with Multiple Return Statements, Method with a Single Return Statement }, Instance Method { Accessor/Getter Method, Mutator/Setter Method }, Static Method { Factory Method }, What is Constructor, Types of Constructors { Default Constructor, Parameterized Constructor, Copy Constructor, Private Constructor }, Constructor Chaining
