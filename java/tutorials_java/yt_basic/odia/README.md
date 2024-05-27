@@ -194,6 +194,9 @@ Run all commands using git bash
   - **Lec2** - **_Methods & Constructors_**
     - `Vid Link`: https://youtu.be/90OCedJ2gsY
     - `Topics`: What is Method, Types of Methods basesd on Return Types & Arguments { Method with No Argument and No Return Type (Void Type), Method with Arguments and No Return Type (Void Type), Method with No Argument and a Return Type, Method with Arguments and a Return Type, Method with Multiple Return Statements, Method with a Single Return Statement }, Instance Method { Accessor/Getter Method, Mutator/Setter Method }, Static Method { Factory Method }, What is Constructor, Types of Constructors { Default Constructor, Parameterized Constructor, Copy Constructor, Private Constructor }, Constructor Chaining
-  - **Lec3** - **_Abstraction_**
+  - **Lec3** - **_Abstract Classes & Interfaces_**
     - `Vid Link`: https://youtu.be/aGrE4xE2cNA
     - `Topics`: What is Abstraction, Ways to achieve Abstraction, Abstract Class, Why We Use Abstract Class, Interface, Why We Use Interface
+  - **Lec3.1** - **_Abstract Classes & Interfaces_**
+    - `Vid Link`: https://youtu.be/9Lls0ZQoxmg
+    - `Topics`: Types of Interfaces, Marker Interfaces, Functional Interfaces { SAM - Single Abstract Method }, Nested Interfaces, Pure and Impure Function
