@@ -200,3 +200,6 @@ Run all commands using git bash
   - **Lec3.1** - **_Abstract Classes & Interfaces_**
     - `Vid Link`: https://youtu.be/9Lls0ZQoxmg
     - `Topics`: Types of Interfaces, Marker Interfaces, Functional Interfaces { SAM - Single Abstract Method }, Nested Interfaces, Pure and Impure Function
+  - **Lec4** - **_Inheritance & Types of Inheritance_**
+    - `Vid Link`: https://youtu.be/LtXn-rbvIUY
+    - `Topics`: What is Inheritance, Advantages of Inheritance, Properties/Members Which are Not Inherited by Child Classes, Types of Inheritance { Single Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance, Multiple Inheritance }, Object class is the Parent Class of all classes
