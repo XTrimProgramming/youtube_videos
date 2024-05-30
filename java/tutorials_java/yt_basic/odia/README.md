@@ -206,3 +206,6 @@ Run all commands using git bash
   - **Lec4.1** - **_More on Inheritance_**
     - `Vid Link`: https://youtu.be/2UnOar2N8sk
     - `Topics`: What is Diamond Problem, Using Interfaces to Solve the Diamond Problem, Limit/Restrict Inheritance Levels, Sealed Classes, Final Class
+  - **Lec4.2** - **_Association, Aggregation & Composition_**
+    - `Vid Link`: https://youtu.be/zI9AGA5YJt8
+    - `Topics`: Relationships Between Classes, Association, Aggregation, Composition, Advantages of Composition Over Inheritance
