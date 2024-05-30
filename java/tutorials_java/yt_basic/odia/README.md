@@ -203,3 +203,6 @@ Run all commands using git bash
   - **Lec4** - **_Inheritance & Types of Inheritance_**
     - `Vid Link`: https://youtu.be/LtXn-rbvIUY
     - `Topics`: What is Inheritance, Advantages of Inheritance, Properties/Members Which are Not Inherited by Child Classes, Types of Inheritance { Single Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance, Multiple Inheritance }, Object class is the Parent Class of all classes
+  - **Lec4.1** - **_More on Inheritance_**
+    - `Vid Link`: https://youtu.be/2UnOar2N8sk
+    - `Topics`: What is Diamond Problem, Using Interfaces to Solve the Diamond Problem, Limit/Restrict Inheritance Levels, Sealed Classes, Final Class
