@@ -8,3 +8,6 @@
   - **Lec1** - **_Introduction To Docker & Docker Installation_**
     - `Vid Link`: https://youtu.be/w27FRC6hbpQ
     - `Topics`: DevOps PipeLine Explanation, What is Docker, Why We Need Docker, What is a Container, Docker Installation on Windows, Docker Architecture
+  - **Lec2** - **_Docker CLI & Commands_**
+    - `Vid Link`: https://youtu.be/mHos7yMWhxg
+    - `Topics`: What is Docker Client, What is Docker CLI, Frequently Used Docker Commands with Practical (Pull & Run Postgres Image), Volume Types in Docker with Practical
