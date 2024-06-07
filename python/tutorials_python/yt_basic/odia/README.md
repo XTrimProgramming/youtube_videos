@@ -26,4 +26,7 @@
     - `Topics`: How to import python project, PyCharm configuration settings, Configure Python Local Interpreter and System Interpreter
   - **Lec2** - **_Dependency Management using Pip & Poetry_**
     - `Vid Link`: https://youtu.be/yM9DCYk3Td4
-    - `Topics`: What is dependency, What is dependency management, Pip, Create and run a project with dependencies using Pip, Poetry, Create and run a project with dependencies using Poetry 
+    - `Topics`: What is dependency, What is dependency management, Pip, Create and run a project with dependencies using Pip, Poetry, Create and run a project with dependencies using Poetry
+  - **Lec2.1** - **_Passing Arguments to Python Program_**
+    - `Vid Link`: https://youtu.be/6Wl3Ns1CE4I
+    - `Topics`: What is Program Arguments, How to pass Program Arguments through Command Line & PyCharm IDE, What is VM Arguments, How to pass VM Arguments through Command line & PyCharm IDE
