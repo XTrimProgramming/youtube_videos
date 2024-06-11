@@ -30,3 +30,6 @@
   - **Lec2.1** - **_Passing Arguments to Python Program_**
     - `Vid Link`: https://youtu.be/6Wl3Ns1CE4I
     - `Topics`: What is Program Arguments, How to pass Program Arguments through Command Line & PyCharm IDE, What is VM Arguments, How to pass VM Arguments through Command line & PyCharm IDE
+  - **Lec2.2** - **_Debugging Python Application_**
+    - `Vid Link`: https://youtu.be/u2iNzQVmVdM
+    - `Topics`: What is a Bug, What is Debugging, Why we need debugging, What is a Debugger, Debugger Basic Features, Debugging Python Code in PyCharm, Debugging Python Code in VS Code
