@@ -11,3 +11,7 @@
   - **Lec2** - **_Docker CLI & Commands_**
     - `Vid Link`: https://youtu.be/mHos7yMWhxg
     - `Topics`: What is Docker Client, What is Docker CLI, Frequently Used Docker Commands with Practical (Pull & Run Postgres Image), Volume Types in Docker with Practical
+- **Sec1** - **_Running Services inside Docker container_**
+  - **Lec1** - **_Running Multiple Services in a Single Docker Container_**
+    - `Vid Link`: https://youtu.be/TKCGDq3JrDY
+    - `Topics`: Running Multiple Services in a single Docker container, Supervisor Process, supervisord, Running Nginx web server and Flask application inside a Docker container using supervisord.
