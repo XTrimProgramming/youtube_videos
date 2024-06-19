@@ -15,3 +15,6 @@
   - **Lec1** - **_Running Multiple Services in a Single Docker Container_**
     - `Vid Link`: https://youtu.be/TKCGDq3JrDY
     - `Topics`: Running Multiple Services in a single Docker container, Supervisor Process, supervisord, Running Nginx web server and Flask application inside a Docker container using supervisord.
+  - **Lec2** - **_Multi-Container Deployment using Docker Compose_**
+    - `Vid Link`: https://youtu.be/tKnmrmZJmYk
+    - `Topics`:  Multi-Container Deployment using Docker, Multi-Container Deployment using Docker Compose
