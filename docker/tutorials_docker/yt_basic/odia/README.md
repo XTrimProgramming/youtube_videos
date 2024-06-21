@@ -18,3 +18,6 @@
   - **Lec2** - **_Multi-Container Deployment using Docker Compose_**
     - `Vid Link`: https://youtu.be/tKnmrmZJmYk
     - `Topics`:  Multi-Container Deployment using Docker, Multi-Container Deployment using Docker Compose
+  - **Lec3** - **_Multi-Container Deployment using Kubernetes (Minikube)_**
+    - `Vid Link`: https://youtu.be/WPrgrhdhmwU
+    - `Topics`:  What is Kubernetes, Docker Compose vs Kubernetes, Minikube, Multi-Container Deployment using Kubernetes
