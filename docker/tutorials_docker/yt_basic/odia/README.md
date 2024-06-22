@@ -21,3 +21,6 @@
   - **Lec3** - **_Multi-Container Deployment using Kubernetes (Minikube)_**
     - `Vid Link`: https://youtu.be/WPrgrhdhmwU
     - `Topics`:  What is Kubernetes, Docker Compose vs Kubernetes, Minikube, Multi-Container Deployment using Kubernetes
+  - **Lec4** - **_Multi-Container Deployment using Terraform in Docker_**
+    - `Vid Link`: https://youtu.be/t_Pfv-wX9q0
+    - `Topics`:  What is Terraform, Terraform Installation & Setup, Terraform Configuration File, Terraform basic commands, Multi-Container Deployment using Terraform
