@@ -24,3 +24,6 @@
   - **Lec4** - **_Multi-Container Deployment using Terraform in Docker_**
     - `Vid Link`: https://youtu.be/t_Pfv-wX9q0
     - `Topics`:  What is Terraform, Terraform Installation & Setup, Terraform Configuration File, Terraform basic commands, Multi-Container Deployment using Terraform
+  - **Lec5** - **_Multi-Container Deployment using Terraform in Kubernetes (Minikube)_**
+    - `Vid Link`: https://youtu.be/IoaJQrDk7XI
+    - `Topics`:  Multi-Container Deployment using Terraform in Kubernetes (Minikube)
