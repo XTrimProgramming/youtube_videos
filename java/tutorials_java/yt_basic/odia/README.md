@@ -209,3 +209,12 @@ Run all commands using git bash
   - **Lec4.2** - **_Association, Aggregation & Composition_**
     - `Vid Link`: https://youtu.be/zI9AGA5YJt8
     - `Topics`: Relationships Between Classes, Association, Aggregation, Composition, Advantages of Composition Over Inheritance
+  - **Lec5** - **_Polymorphism_**
+    - `Vid Link`: https://youtu.be/AbVK8O8dhbg
+    - `Topics`: What is Polymorphism, Types of Polymorphism, Compile-Time polymorphism { Static Polymorphism or Early Binding } Method Overloading, Run-Time Polymorphism { Dynamic Polymorphism or Late Binding }, Method Overriding, Covariant Return Type
+  - **Lec6** - **_Expressions & Keywords in Java_**
+    - `Vid Link`: https://youtu.be/5tPP21V7ivg
+    - `Topics`: What is Expressions, Keyword or Reserved Word, this Keyword, super Keyword, Access Modifiers { private,default,protected,public }, Non Access Modifiers { static,final,transient }
+  - **Lec7** - **_Generics in Java_**
+    - `Vid Link`: https://youtu.be/oVBRRnnTgtk
+    - `Topics`: What is Generics, Advantages of Generics, Key Concepts of Generics, Restrictions on Java Generics
