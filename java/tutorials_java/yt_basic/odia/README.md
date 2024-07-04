@@ -218,3 +218,6 @@ Run all commands using git bash
   - **Lec7** - **_Generics in Java_**
     - `Vid Link`: https://youtu.be/oVBRRnnTgtk
     - `Topics`: What is Generics, Advantages of Generics, Key Concepts of Generics, Restrictions on Java Generics
+  - **Lec8** - **_Functional Interfaces & Lambda Expressions in Java_**
+    - `Vid Link`: https://youtu.be/u_ctniQUUxo
+    - `Topics`: Functional Interfaces {Built-in, User Defined}, Lambda Expressions, Method References
