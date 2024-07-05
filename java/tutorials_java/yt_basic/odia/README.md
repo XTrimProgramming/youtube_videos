@@ -221,3 +221,6 @@ Run all commands using git bash
   - **Lec8** - **_Functional Interfaces & Lambda Expressions in Java_**
     - `Vid Link`: https://youtu.be/u_ctniQUUxo
     - `Topics`: Functional Interfaces {Built-in, User Defined}, Lambda Expressions, Method References
+  - **Lec9** - **_Annotations in Java_**
+    - `Vid Link`: https://youtu.be/RIuV8QQjuQo
+    - `Topics`: What are Annotations, Purposes of Annotations, Types of Annotations { Built-in Annotations, User-Defined Annotations }, How to create User-Defined Annotations
