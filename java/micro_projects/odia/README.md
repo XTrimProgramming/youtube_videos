@@ -17,3 +17,6 @@
 - **Project4** - **_Log to CSV Processor_**
   - `Vid Link`: https://youtu.be/V2z5o8Xjla0
   - `Topics`: ServerLogGenerator Class, LogProcessor Class
+- **Project5** - **_Sample Virus & Antivirus App_**
+  - `Vid Link`: https://youtu.be/u8TyBmIEvQs
+  - `Topics`: SimpleVirus Class, SimpleAntivirus Class
