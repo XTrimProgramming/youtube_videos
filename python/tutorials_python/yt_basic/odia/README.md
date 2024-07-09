@@ -33,3 +33,7 @@
   - **Lec2.2** - **_Debugging Python Application_**
     - `Vid Link`: https://youtu.be/u2iNzQVmVdM
     - `Topics`: What is a Bug, What is Debugging, Why we need debugging, What is a Debugger, Debugger Basic Features, Debugging Python Code in PyCharm, Debugging Python Code in VS Code
+- **Sec2** - **_Python Data Types_**
+  - **Lec1** - **_Data Types in Python_**
+    - `Vid Link`: https://youtu.be/s8K5NE9ACp0
+    - `Topics`: What is Data, What is Data Type, Category of Data Type, Primitive Data Types { int, float, str, bool}
