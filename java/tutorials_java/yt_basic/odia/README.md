@@ -224,3 +224,6 @@ Run all commands using git bash
   - **Lec9** - **_Annotations in Java_**
     - `Vid Link`: https://youtu.be/RIuV8QQjuQo
     - `Topics`: What are Annotations, Purposes of Annotations, Types of Annotations { Built-in Annotations, User-Defined Annotations }, How to create User-Defined Annotations
+  - **Lec10** - **_Simple Virus & Anti-virus App_**
+    - `Vid Link`: https://youtu.be/u8TyBmIEvQs
+    - `Topics`: What is computer virus, Types of computer virus, Effects of computer virus, What is antivirus in computer, Signature based detection,How to create virus in java, How to create antivirus in java
