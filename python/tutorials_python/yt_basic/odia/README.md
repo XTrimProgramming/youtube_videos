@@ -40,3 +40,6 @@
   - **Lec1.1** - **_Non-Primitive Data Types_**
     - `Vid Link`: https://youtu.be/i2c4o8SaIZA
     - `Topics`: Non-Primitive Data Types { Lists, Tuples, Sets, Dictionaries }
+  - **Lec1.2** - **_Non-Primitive Data Types_**
+    - `Vid Link`: https://youtu.be/i2c4o8SaIZA
+    - `Topics`: Non-Primitive Data Types { Lists, Tuples, Sets, Dictionaries }
