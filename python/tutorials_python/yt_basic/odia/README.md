@@ -43,3 +43,6 @@
   - **Lec1.2** - **_Lists in Python_**
     - `Vid Link`: https://youtu.be/dwZYmb1m1Mw
     - `Topics`: Lists in Python
+  - **Lec1.3** - **_Tuples & Sets in Python_**
+    - `Vid Link`: https://youtu.be/JtezJGUWxNM
+    - `Topics`: Tuples & Sets in Python
