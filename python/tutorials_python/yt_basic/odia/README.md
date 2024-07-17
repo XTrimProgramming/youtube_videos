@@ -46,3 +46,6 @@
   - **Lec1.3** - **_Tuples & Sets in Python_**
     - `Vid Link`: https://youtu.be/JtezJGUWxNM
     - `Topics`: Tuples & Sets in Python
+  - **Lec1.4** - **_Dictionaries in Python_**
+    - `Vid Link`: https://youtu.be/gZgt1xAcCGA
+    - `Topics`: Dictionaries in Python
