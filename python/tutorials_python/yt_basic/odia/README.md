@@ -49,3 +49,6 @@
   - **Lec1.4** - **_Dictionaries in Python_**
     - `Vid Link`: https://youtu.be/gZgt1xAcCGA
     - `Topics`: Dictionaries in Python
+  - **Lec2** - **_Comments in Python_**
+    - `Vid Link`: https://youtu.be/JP7cPD1cVwc
+    - `Topics`:What is Comment,Types of Comment { Single-line comments, Multi-line comments, Shebang Line }, Importance of Comments
