@@ -51,4 +51,7 @@
     - `Topics`: Dictionaries in Python
   - **Lec2** - **_Comments in Python_**
     - `Vid Link`: https://youtu.be/JP7cPD1cVwc
-    - `Topics`:What is Comment,Types of Comment { Single-line comments, Multi-line comments, Shebang Line }, Importance of Comments
+    - `Topics`: What is Comment,Types of Comment { Single-line comments, Multi-line comments, Shebang Line }, Importance of Comments
+  - **Lec3** - **_Operators (Arithmetic, Assignment, Comparison, Logical)_**
+    - `Vid Link`: https://youtu.be/6q8xUqB0u1s
+    - `Topics`: What are Operators, Operator Types { Arithmetic Operators, Assignment Operators, Comparison Operators, Logical Operators }
