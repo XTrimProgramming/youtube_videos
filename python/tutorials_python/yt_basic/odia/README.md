@@ -55,3 +55,6 @@
   - **Lec3** - **_Operators (Arithmetic, Assignment, Comparison, Logical)_**
     - `Vid Link`: https://youtu.be/6q8xUqB0u1s
     - `Topics`: What are Operators, Operator Types { Arithmetic Operators, Assignment Operators, Comparison Operators, Logical Operators }
+  - **Lec3.1** - **_Operators (Bitwise, Membership, Identity)_**
+    - `Vid Link`: https://youtu.be/Co9OHJ8ckPY
+    - `Topics`: Bitwise Operators, Membership Operators, Identity Operators
