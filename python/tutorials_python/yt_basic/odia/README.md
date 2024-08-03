@@ -58,3 +58,6 @@
   - **Lec3.1** - **_Operators (Bitwise, Membership, Identity)_**
     - `Vid Link`: https://youtu.be/Co9OHJ8ckPY
     - `Topics`: Bitwise Operators, Membership Operators, Identity Operators
+  - **Lec4** - **_Classes in Python_**
+    - `Vid Link`: https://youtu.be/Sw4OVukAtFw
+    - `Topics`: What is Class, Class Definition, Class Components, What is self
