@@ -61,3 +61,6 @@
   - **Lec4** - **_Classes in Python_**
     - `Vid Link`: https://youtu.be/Sw4OVukAtFw
     - `Topics`: What is Class, Class Definition, Class Components, What is self
+  - **Lec5** - **_Variables & their Scopes in Python_**
+    - `Vid Link`: https://youtu.be/IJxoU6lky_A
+    - `Topics`: What is a Variable, Naming Variables, Creating Variables, Variable Scopes, Variable Types { Local, Global, Enclosing, Built-in }
