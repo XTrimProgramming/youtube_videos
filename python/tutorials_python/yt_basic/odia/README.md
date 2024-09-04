@@ -64,3 +64,6 @@
   - **Lec5** - **_Variables & their Scopes in Python_**
     - `Vid Link`: https://youtu.be/IJxoU6lky_A
     - `Topics`: What is a Variable, Naming Variables, Creating Variables, Variable Scopes, Variable Types { Local, Global, Enclosing, Built-in }
+  - **Lec6** - **_Code Execution Order in Python_**
+    - `Vid Link`: https://youtu.be/uu2fuLY5990
+    - `Topics`: Code Execution Order in Python, Global Variables and Top-Level Code Execution, Class Definitions and Class-Level Code Execution, Instance Variables and Methods Execution
