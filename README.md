@@ -8,6 +8,8 @@
     - [Java Micro Project Series (in Odia)](./java/micro_projects/odia/README.md)
   - [Python](./python/README.md)
     - [Python Basic Tutorial Series (in Odia)](./python/tutorials_python/yt_basic/odia/README.md)
+  - [SQL](./sql/README.md)
+  - [Linux](./linux/README.md)
 - **Container Platforms:**
   - [Docker](./docker/README.md)
     - [Docker Basic Tutorial Series (in Odia)](./docker/tutorials_docker/yt_basic/odia/README.md)
