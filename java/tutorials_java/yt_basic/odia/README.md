@@ -227,3 +227,7 @@ Run all commands using git bash
   - **Lec10** - **_Simple Virus & Anti-virus App_**
     - `Vid Link`: https://youtu.be/u8TyBmIEvQs
     - `Topics`: What is computer virus, Types of computer virus, Effects of computer virus, What is antivirus in computer, Signature based detection,How to create virus in java, How to create antivirus in java
+- **Sec6** - **_Exception Handling in Java_**
+  - **Lec1** - **_Exceptions and Exception Handling in Java_**
+    - `Vid Link`: https://youtu.be/NFI33OMbWEQ
+    - `Topics`: What is Errors, What is Exceptions, Exceptions Categories, Exception Hierarchy, Types of Exceptions, Exception Handling Keywords, How JVM Handles Exceptions, How Programmers Handle Exceptions { try-catch Block, try-finally Block, try with Multiple catch, Nested try Block, try-catch-finally Block Rules, throw Keyword, throws Keyword }, Try-With-Resources
