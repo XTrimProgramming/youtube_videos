@@ -234,3 +234,6 @@ Run all commands using git bash
   - **Lec2** - **_User-Defined Exceptions in Java_**
       - `Vid Link`: https://youtu.be/U9DPi53u1J0
       - `Topics`: What is User-Defined Exceptions, Why we create User-Defined Exception, Exceptions Categories, Exception Hierarchy, Types of Exceptions, Hierarchy of Exceptions, Steps to create a User-Defined Exception
+  - **Lec3** - **_Assertions in Java_**
+      - `Vid Link`: https://youtu.be/_1KANnmVpcY
+      - `Topics`: What are Assertions, When to Use Assertions, Syntax of Assertions, Enabling/Disabling Assertions, When Not to Use Assertions
