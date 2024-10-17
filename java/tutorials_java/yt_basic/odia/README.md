@@ -231,3 +231,6 @@ Run all commands using git bash
   - **Lec1** - **_Exceptions and Exception Handling in Java_**
     - `Vid Link`: https://youtu.be/NFI33OMbWEQ
     - `Topics`: What is Errors, What is Exceptions, Exceptions Categories, Exception Hierarchy, Types of Exceptions, Exception Handling Keywords, How JVM Handles Exceptions, How Programmers Handle Exceptions { try-catch Block, try-finally Block, try with Multiple catch, Nested try Block, try-catch-finally Block Rules, throw Keyword, throws Keyword }, Try-With-Resources
+  - **Lec2** - **_User-Defined Exceptions in Java_**
+      - `Vid Link`: https://youtu.be/U9DPi53u1J0
+      - `Topics`: What is User-Defined Exceptions, Why we create User-Defined Exception, Exceptions Categories, Exception Hierarchy, Types of Exceptions, Hierarchy of Exceptions, Steps to create a User-Defined Exception
