@@ -237,3 +237,7 @@ Run all commands using git bash
   - **Lec3** - **_Assertions in Java_**
       - `Vid Link`: https://youtu.be/_1KANnmVpcY
       - `Topics`: What are Assertions, When to Use Assertions, Syntax of Assertions, Enabling/Disabling Assertions, When Not to Use Assertions
+- **Sec7** - **_Packages in Java_**
+  - **Lec1** - **_Packages in Java_**
+    - `Vid Link`: https://youtu.be/9j9pRhtjP5s
+    - `Topics`: What is Java Package, Why use Packages, Types of Packages in Java, package Keyword, Import Statements, How to create User-defined Packages, Static Import
