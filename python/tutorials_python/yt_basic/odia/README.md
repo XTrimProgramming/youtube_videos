@@ -67,3 +67,7 @@
   - **Lec6** - **_Code Execution Order in Python_**
     - `Vid Link`: https://youtu.be/uu2fuLY5990
     - `Topics`: Code Execution Order in Python, Global Variables and Top-Level Code Execution, Class Definitions and Class-Level Code Execution, Instance Variables and Methods Execution
+- **Sec3** - **_Read & Write Operation in Python_**
+  - **Lec1** - **_Read inputs & Write outputs in Console in Python_**
+    - `Vid Link`: https://youtu.be/RvuQvXlK3wc
+    - `Topics`: Using input() and print(), Using sys.stdin and sys.stdout, Using getpass for Secure Input, Formatted Output Using str.format(), Using argparse for Command-Line Arguments
