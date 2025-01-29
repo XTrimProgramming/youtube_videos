@@ -71,3 +71,6 @@
   - **Lec1** - **_Read inputs & Write outputs in Console in Python_**
     - `Vid Link`: https://youtu.be/RvuQvXlK3wc
     - `Topics`: Using input() and print(), Using sys.stdin and sys.stdout, Using getpass for Secure Input, Formatted Output Using str.format(), Using argparse for Command-Line Arguments
+  - **Lec2** - **_Read inputs and Write outputs in File in Python_**
+    - `Vid Link`: https://youtu.be/AaynikqFAj4
+    - `Topics`: Basic Read and Write with open(), Using writelines() and readlines() for Lists, Reading and Writing Binary Files, Using json Module for JSON Files, Using csv Module for CSV Files, Read a .docx File and Write content into a .pdf File
